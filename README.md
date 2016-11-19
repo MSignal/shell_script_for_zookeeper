@@ -10,4 +10,6 @@
 [ 3 ] Check Zookeepr status.<br>
 [ 4 ] Exit.<br>
 
+![image](gif/zookeeper.gif) 
+
 通过脚本给出的四个选择，可以实现相应的操作。
